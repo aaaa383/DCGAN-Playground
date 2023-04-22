@@ -1,0 +1,2 @@
+# DCGAN-Playground
+mnistを使ったDCGANの画像生成を体験できるstreamlitアプリ
